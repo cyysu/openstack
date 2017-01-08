@@ -1,13 +1,14 @@
-# OpenStack°æ±¾£º CentOS7 - Juno-ALL IN ONE 
+# OpenStackç‰ˆæœ¬ï¼š CentOS7 - Juno-ALL IN ONE 
 
 
 
-#ÒÆÖ²×¢ÒâÊÂÏî:
+#ç§»æ¤æ³¨æ„äº‹é¡¹:
    1. vim /etc/nova/nova.conf
    
    2. vim /etc/neutron/plugins/ml2/ml2_conf.ini 
 
-   3. Èç¹ûÒ³ÃæµÇÂ½²»½øÈ¥£¬¹Ø±Õiptables         $iptables -F 
+   3. å¦‚æœé¡µé¢ç™»é™†ä¸è¿›å»ï¼Œå…³é—­iptables         $iptables -F 
 
-   4. ·ÃÎÊµØÖ·£ºhttp://±¾µØIPµØÖ·/dashboard/
-
+   4. è®¿é—®åœ°å€ï¼šhttp://æœ¬åœ°IPåœ°å€/dashboard/
+#ç½‘ç›˜é•œåƒ
+   é“¾æ¥ï¼šhttp://pan.baidu.com/s/1ctJmCe å¯†ç ï¼š43rd
